@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.binarybeams.creditroll",
+    "sha256_cert_fingerprints": ["77:4D:B2:46:EC:4F:45:DC:5F:EC:71:89:8F:F8:54:68:12:06:34:EA:B4:0E:F7:51:2E:19:BC:84:9E:C5:22:9D"]
+  }
+}]
